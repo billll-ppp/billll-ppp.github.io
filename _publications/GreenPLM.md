@@ -1,16 +1,16 @@
 ---
-title: "Paper Title Number 3"
-collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+title: "GreenPLM: Cross-lingual pre-trained language models conversion with (almost) no cost"
+collection: Preprint
+permalink: /publication/GreenPLM.md
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2022-11-13
+venue: under revision
+paperurl: 'https://arxiv.org/pdf/2211.06993'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<!-- This paper is about the number 3. The number 4 is left for future work.
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
+
 <!-- ---
 title: "GreenPLM: Cross-lingual pre-trained language models conversion with (almost) no cost"
 collection: publications
