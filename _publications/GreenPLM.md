@@ -2,7 +2,7 @@
 title: "GreenPLM: Cross-lingual pre-trained language models conversion with (almost) no cost"
 collection: Preprint
 permalink: /publication/GreenPLM.md
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 
 date: 2022-11-13
 venue: under revision
 paperurl: 'https://arxiv.org/pdf/2211.06993'
