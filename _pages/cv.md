@@ -13,45 +13,29 @@ Education
 ======
 * B.Eng in Computer Science and Technology, Zhejiang University (expected 2023)
 
-<!-- Work experience
+Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.03 - 2022.06: Research Assistant
+  * Zhejiang University
+  * Duties included: 
+    * Helped designed a cross-lingual pre-training scheme
+    * Designed and conducted experiments to evaluate the performance of LSTM-based and CNN-based low-resource language models on various evaluation tasks (e.g. POS, NER) as the baseline. 
+  * Supervisor: Professor Jie Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.07 - 2022.09: Software Developing Engineer Intern
+  * Microsoft
+  * Duties included: 
+    * Contributed to ReadAloud, the text-to-speech feature in the Edge browser for iOS. 
+    * Improved ReadAloud work logic with streaming conditioned on content length to reduce the processing time. 
+
+* 2022.10 - Present: Research Assistant
+  * National University of Singapore
+  * Duties included
+    * Investigating open-domain question-answering with unreliable sources
+  * Supervisor: Professor Min-yan Kan 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Programming Languages: C, C++, Objective-C, SQL, Verilog, Python, JavaScript, HTML, LaTeX 
+* Language Skills: Chinese (native), English (work-proficient)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching -->
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
