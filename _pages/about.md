@@ -12,3 +12,12 @@ Hi, I'm **Yikang Pan**, a **senior undergraduate student majoring in computer sc
 
 Currently I am going through the emotional roller-coaster part of applying to graduate schools. In my spare time, I enjoy tennis, comedy series and indie rock songs.
 
+## Honors and Scholarships
+- Zhejiang University Scholarship - First Prize (top 3%)
+  - 2 times, both 2020 & 2021
+- Enrolled in the Chu-KoChen honors program at Zhejiang University
+
+## Preprints
+1. GreenPLM: Cross-lingual pre-trained language models conversion with (almost) no cost, https://arxiv.org/abs/2211.06993
+  
+  Qingcheng Zeng, Lucas Garay, Peilin Zhou, Dading Chong, Yining Hua, Jiageng Wu, **Yikang Pan**, Han Zhou, Jie Yang
