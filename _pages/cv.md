@@ -13,14 +13,14 @@ Education
 ======
 * B.Eng in Computer Science and Technology, Zhejiang University (expected 2023)
 
-Work experience
+Experiences
 ======
 * 2022.03 - 2022.06: Research Assistant
   * Zhejiang University
   * Duties included: 
     * Helped designed a cross-lingual pre-training scheme
     * Designed and conducted experiments to evaluate the performance of LSTM-based and CNN-based low-resource language models on various evaluation tasks (e.g. POS, NER) as the baseline. 
-  * Supervisor: Professor Jie Yang
+  * Supervisor: Professor [Jie Yang](https://person.zju.edu.cn/en/jieyang)
 
 * 2022.07 - 2022.09: Software Developing Engineer Intern
   * Microsoft
@@ -32,7 +32,7 @@ Work experience
   * National University of Singapore
   * Duties included
     * Investigating open-domain question-answering with unreliable sources
-  * Supervisor: Professor Min-yan Kan 
+  * Supervisor: Professor [Min-yan Kan](https://www.comp.nus.edu.sg/~kanmy/) 
   
 Skills
 ======
